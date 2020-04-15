@@ -1,0 +1,14 @@
+{
+  "name": "John Laygo",
+  "authors": [
+    {
+      "name": "John Laygo",
+      "email": "jlaygo@mail.greenriver.edu"
+
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+
+}
